@@ -1,0 +1,17 @@
+/* download-pdf.component.css */
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff; /* Blue color, you can change it to your preference */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3; /* Darker shade of blue on hover */
+    cursor: pointer;;
+  }
+  
